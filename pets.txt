@@ -1,0 +1,14 @@
+[
+    {
+        "id": "6709f3b626d03",
+        "name": "Mia",
+        "details": "A cute brown bunny",
+        "owner": "student"
+    },
+    {
+        "id": "670f3c04bd4ea",
+        "name": "Mia",
+        "details": "A sweet Bunny",
+        "owner": "student"
+    }
+]

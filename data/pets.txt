@@ -1,0 +1,8 @@
+[
+    {
+        "id": "670f50ca0d38e",
+        "name": "Sam",
+        "details": "A black cat",
+        "owner": "user3"
+    }
+]

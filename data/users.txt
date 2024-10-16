@@ -1,0 +1,7 @@
+{
+    "1": {
+        "id": "670f50a0e23e9",
+        "name": "user3",
+        "password": "$2y$10$d4RMzDqjgFQihBCZKEVhZeQC6ONxl5mHx3UqJuBRJUTYLNtlwUlt6"
+    }
+}

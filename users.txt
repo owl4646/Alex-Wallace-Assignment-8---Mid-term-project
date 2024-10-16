@@ -1,0 +1,10 @@
+[
+    {
+        "name": "student",
+        "password": "$2y$10$.IFAo8NdSB62RQfNamLlEuEk\/2JGqoOIEAEuAAShZQ8ZamAKEIHp6"
+    },
+    {
+        "name": "user1",
+        "password": "$2y$10$.2sABubk3CPq5\/gk050lFuAqWumUaJGUDvN3zSTpWtxYv5pwwcvoW"
+    }
+]
